@@ -9,4 +9,8 @@ Typical scenario:
 5- server replies by serializing the return object  
 6- client received the result  
 
+
+In this repo the serialization part is not implemented.  
+The test covers the proxy creation, the proxy handler and the correct bean retrieval from the spring's context.
+
 Olly
